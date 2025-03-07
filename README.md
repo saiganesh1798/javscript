@@ -81,5 +81,9 @@ program:https://onecompiler.com/javascript/43b3uqph5
         --        
         Terenary op  ->  ? : ->> shortcut of if statement           
 
-write a java script program area of a rectangle?
-          https://onecompiler.com/javascript/43b3wdek9
+1. write a java script program area of a rectangle?        
+        program:  https://onecompiler.com/javascript/43b3wdek9        
+2.write a javascript program on perimeter of rectangle?        
+        Program: https://onecompiler.com/javascript/43b3wjxww        
+3.write a program on square of a number?
+        program: https://onecompiler.com/javascript/43b3wwrvy
