@@ -14,14 +14,46 @@ we use <script> tag for java script compiler in this we write entire program.
       ex:console.log()  //used to dispaly messages and values of the variables.
 
 write a java script program to dispaly message:
-EX:  console.log(welcome to my website)   Link:https://onecompiler.com/javascript/43b3k7eva
+EX:  console.log(welcome to my website)   Link:https://onecompiler.com/javascript/43b3mtvnp
 
 variables: 
     1.Let :we use variable in any position in code.
        EX:https://onecompiler.com/javascript/43b3k7eva
-   
     2.var: variable can declare after we use where we declared before
         EX: https://onecompiler.com/javascript/43b3k7eva
     3.Cosnt: it is fixed 
-     
-    
+
+    * let and var are mutable and const is not mutable.
+  Note:Interview->  *  some time we assign more than one value in the variable brackets then only last value is executed:(only last value is assigned)
+                         Example: https://onecompiler.com/javascript/43b3mx6vb
+                    * we dont have to give datatype in code 
+**Data Types**
+In java Script we have Data Type are : 
+1.Number:
+2.
+3.
+4.String
+    ex:https://onecompiler.com/javascript/43b3nj8kz
+5.null
+6.NaN(not a number ) :it represent invalid numbers.
+    Ex:https://onecompiler.com/javascript/43b3nnpzs
+7.boolean-->either true or false.
+       Ex: https://onecompiler.com/javascript/43b3ns5cy
+8.typeof--> typeof function is used to find out datatype of the variable.
+    EX:https://onecompiler.com/javascript/43b3nfdgk
+
+Arithematic operators:
+    +,-,*,^,/.
+    Example:
+     https://onecompiler.com/javascript/43b3nt2qs
+**Note**: we dont write values in left side with variables we assign values at right side.
+             Ex: https://onecompiler.com/javascript/43b3pk4um
+
+**Comparison Operators**
+
+== // equal to 
+=== // strictly equal to
+!= // not equal to
+!== // strictly not equal to 
+> // greater than
+    EX: https://www.w3schools.com/js/js_comparisons.asp
